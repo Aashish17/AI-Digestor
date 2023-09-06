@@ -16,7 +16,7 @@ const Hero = () => {
         <span className='orange_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Streamline your reading with AI Digestor by Aashish, an open-source article summarizer that condenses lengthy articles into concise summaries.
+        Streamline your reading with AI Digestor by Aashish :), an open-source article summarizer that condenses lengthy articles into concise summaries.
       </h2>
     </header>
   )
